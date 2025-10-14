@@ -1,0 +1,19 @@
+# robots.txt for Real Estate Benoni & Boksburg
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://realestateconnect.co/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Google bot
+User-agent: Googlebot
+Allow: /
+
+# Bing bot
+User-agent: Bingbot
+Allow: /
